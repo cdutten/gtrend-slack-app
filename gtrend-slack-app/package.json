@@ -1,0 +1,15 @@
+{
+  "name": "gtrend-slack-app",
+  "version": "1.0.0",
+  "description": "google trend slack search",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cdutten",
+  "license": "ISC",
+  "dependencies": {
+    "google-trends-api": "^4.9.0",
+    "slack-message-builder": "^1.2.1"
+  }
+}
